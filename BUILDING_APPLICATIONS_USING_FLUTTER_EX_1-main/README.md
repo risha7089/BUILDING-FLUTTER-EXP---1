@@ -35,39 +35,51 @@ The application uses a reusable custom widget called **FruitItem** to display ea
 ## Flutter Widgets Used
 
 ### MaterialApp
+
 Provides the basic structure and configuration for the Flutter application.
 
 ### Scaffold
+
 Provides the main screen structure of the application, including the AppBar and body.
 
 ### AppBar
+
 Displays the application title **Fruit Market** at the top of the screen.
 
 ### ListView
+
 Displays the fruit items in a vertically scrollable list.
 
 ### Card
+
 Displays each fruit inside a separate card with elevation and spacing.
 
 ### Container
+
 Provides padding and organizes the content inside each card.
 
 ### Row
+
 Arranges the fruit image, fruit details, and arrow icon horizontally.
 
 ### Column
+
 Arranges the fruit name, description, and price vertically.
 
 ### Text
+
 Displays the fruit name, description, and price.
 
 ### Image.asset
+
 Displays the fruit images stored inside the project's assets folder.
 
 ### Icon
+
 Displays an arrow icon on each fruit card.
 
 ### StatelessWidget
+
 Used to create widgets whose contents do not change dynamically.
 
 ---
@@ -161,7 +173,7 @@ The Flutter application was successfully developed using Row, Column, Container,
 
 **Priya Jenita** **(URK23CS7012)**
 
-**Course:** B.Tech Computer Science and Engineering (Artificial Intelligence and Machine Learning) 
+**Course:** B.Tech Computer Science and Engineering (Artificial Intelligence and Machine Learning)
 **Subject:** 24CS2016 – Building Applications using Flutter  
 **Experiment:** 1 – Working with Widgets and Layouts
 
@@ -169,16 +181,16 @@ The Flutter application was successfully developed using Row, Column, Container,
 
 ## Academic Information
 
-| Details | Information |
-|---|---|
-| Course Code | 24CS2016 |
-| Course Name | Building Applications using Flutter |
-| Experiment No. | 1 |
-| Experiment Title | Working with Widgets and Layouts |
-| Application | Fruit Market |
-| Programming Language | Dart |
-| Framework | Flutter |
-| Platform | Flutter Web / Chrome |
+| Details              | Information                         |
+| -------------------- | ----------------------------------- |
+| Course Code          | 24CS2016                            |
+| Course Name          | Building Applications using Flutter |
+| Experiment No.       | 1                                   |
+| Experiment Title     | Working with Widgets and Layouts    |
+| Application          | Fruit Market                        |
+| Programming Language | Dart                                |
+| Framework            | Flutter                             |
+| Platform             | Flutter Web / Chrome                |
 
 ---
 
@@ -186,7 +198,7 @@ The Flutter application was successfully developed using Row, Column, Container,
 
 This project is developed for academic and educational purposes as part of the 24CS2016 – Building Applications using Flutter laboratory course.
 
-© 2026 Priya Jenita. All rights reserved.
+© 2026 RISHA A. All rights reserved.
 
 ---
 
