@@ -171,7 +171,7 @@ The Flutter application was successfully developed using Row, Column, Container,
 
 ## Author
 
-**Priya Jenita** **(URK23CS7012)**
+**RISHA A** **(URK23CS7089)**
 
 **Course:** B.Tech Computer Science and Engineering (Artificial Intelligence and Machine Learning)
 **Subject:** 24CS2016 – Building Applications using Flutter  
